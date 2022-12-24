@@ -6,7 +6,7 @@ this console app uses 3th party PDFSharp library which is licenced under the MIT
 
 There is not much code and the code ist not nicely structured. I just quickly put something together out of need.
 
-C# project
+C# and .NET Framework 4.8 project
 Developed with Visual Studio Community 2022
 
 #########################################################################################################################################
