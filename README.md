@@ -2,7 +2,7 @@
 
 a very basic command line app to save selected images file into one or multiple pdf documents.
 
-this console app uses the PDFSharp libraries.
+this console app uses 3th party PDFSharp library which is licenced under the MIT license
 
 There is not much code and the code ist not nicely structured. I just quickly put something together out of need.
 
