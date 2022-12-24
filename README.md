@@ -9,19 +9,18 @@ There is not much code and the code ist not nicely structured. I just quickly pu
 C# and .NET Framework 4.8 project
 Developed with Visual Studio Community 2022
 
-#########################################################################################################################################
+###############################################################################
 
 Usage: pdpixie [options]... [File(s)]...
 
 create / merge pdf files from images
 
-  Option	Long option		Description
-  -------------------------------------------------
-  -c		--convert		converts selected files into pdf
-  -s		--source		source filenames to be processed
-  -m		--merge			merges multiple pdf files to one pdf file
-  -t		--target		target filename (works only on one source file or when --merge option is added)
-
+|Option|Long option|Description|
+| :---: | :---: | :---: |
+|-c|--convert|converts selected files into pdf|
+|-s|--source|source filenames to be processed|
+|-m|--merge|merges multiple pdf files to one pdf file|
+|-t|--target|target pdf filename to be saved|
 
 Examples:
 
