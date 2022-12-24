@@ -1,6 +1,6 @@
 # pdpixie
 
-a very basic windows command line app to save selected images file into one or multiple pdf documents.
+a very basic windows command line app for batch processing image and pdf files
 
 this console app uses 3th party PDFSharp library which is licenced under the MIT license
 
