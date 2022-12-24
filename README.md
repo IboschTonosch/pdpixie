@@ -1,9 +1,16 @@
 # pdpixie
+
+a very basic command line app to save selected images file into one or multiple pdf documents.
+
+this console app uses the PDFSharp libraries.
+
+There is not much code and the code ist not nicely structured. I just quickly put something together out of need.
+
 #########################################################################################################################################
 
 Usage: pdpixie [options]... [File(s)]...
 
-create / merge pdf files from images and other document types
+create / merge pdf files from images
 
   Option	Long option		Description
   -------------------------------------------------
