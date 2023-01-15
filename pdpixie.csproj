@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{43941A86-74EE-4B33-8D38-A31193301E45}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>pdfairy</RootNamespace>
-    <AssemblyName>pdfairy</AssemblyName>
+    <RootNamespace>pdpixie</RootNamespace>
+    <AssemblyName>pdpixie</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
