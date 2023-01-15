@@ -24,6 +24,6 @@ create / merge pdf files from images
 
 Examples:
 
-  pdpixie -cm -s img1.jpg img2.jpg img2.jpg -t merged_images.pdf	Converts selected image files and merge them into one pdf file
+  pdpixie -c -m -s img1.jpg img2.jpg img2.jpg -t merged_images.pdf	Converts selected image files and merge them into one pdf file
 
 
